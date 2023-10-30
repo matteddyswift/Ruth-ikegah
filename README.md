@@ -46,7 +46,7 @@
     <p>
         <a href="https://www.linkedin.com/in/ruth-ikegah/"><img src="https://img.shields.io/badge/-Ruth%20Ikegah%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/IkegahRuth/"><img src="https://img.shields.io/badge/-IkegahRuth-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-        <a href="mailto:ruthikegah1@gmail.com"><img src="https://img.shields.io/badge/-Ruth%20Ikegah-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
+        <a href="mailto:mattteddyswift@gmail.com"><img src="https://img.shields.io/badge/-matteddy%20swift-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
    </p>
    
  <!-- Conecct section: END -->
@@ -58,9 +58,9 @@
 ## :fire: Github Stats
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruth-ikegah&show_icons=true&locale=en&theme=tokyonight" alt="Ruth-ikegah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattteddyswift&show_icons=true&locale=en&theme=tokyonight" alt="Mat Teddy Swift" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruth-ikegah&&theme=tokyonight" alt="Ruth-ikegah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattteddy-swift&&theme=tokyonight" alt="Mat Teddy Swift" /></p>
 
 
 <!-- Github Stats: END -->
